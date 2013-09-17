@@ -1,0 +1,2 @@
+Main-Class: TriangularGame
+Class-Path: lib/slick.jar lib/lwjgl.jar lib/jogg-0.0.7.jar lib/jorbis-0.0.15.jar
